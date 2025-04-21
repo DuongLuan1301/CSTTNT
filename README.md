@@ -1,1 +1,1 @@
-# CSTTNT
+# Practice with Algorithm (AI)
